@@ -18,13 +18,11 @@
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<!-- <br/><br/>
+ <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=6D28D9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=4338CA&logo=github)
-![Stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=flat-square&color=7C3AED&logo=github)
 
-</div> -->
+
+</div> 
 
 ---
 
