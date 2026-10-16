@@ -72,7 +72,7 @@ A game collection featuring classic Tic Tac Toe and Ultimate Tic Tac Toe, built 
 | **Stack** | C |
 | **Focus** | Game logic, board state handling, structured programming |
 | **Modes** | Classic Tic Tac Toe, Ultimate Tic Tac Toe |
-| **Repository** | [github.com/USERNAME/ultimate-tic-tac-toe](https://github.com/USERNAME/ultimate-tic-tac-toe) |
+| **Repository** | [github.com/USERNAME/ultimate-tic-tac-toe](https://github.com/sultananaima515-pixel/SPL-Final-Project.git) |
 
 </details>
 
