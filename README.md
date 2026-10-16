@@ -87,7 +87,7 @@ A Java Swing desktop application for managing pet care, built for my Object-Orie
 |:--|:--|
 | **Stack** | Java, Swing, IntelliJ IDEA |
 | **Focus** | OOP principles, UML design, MVC structure |
-| **Repository** | [github.com/USERNAME/petcare-pro](https://github.com/USERNAME/petcare-pro) |
+| **Repository** | [github.com/USERNAME/petcare-pro](https://github.com/sultananaima515-pixel/Pet-Care-Management.git) |
 
 </details>
 
