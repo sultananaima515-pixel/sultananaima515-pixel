@@ -122,7 +122,7 @@ A group project that solves numerical methods problems through a simple Java Swi
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
@@ -131,7 +131,7 @@ A group project that solves numerical methods problems through a simple Java Swi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
-</div>
+</div> -->
 
 ---
 
