@@ -102,7 +102,7 @@ A group project that solves numerical methods problems through a simple Java Swi
 |:--|:--|
 | **Stack** | Java, Swing, IntelliJ IDEA |
 | **Focus** | Numerical algorithms, teamwork, GUI design |
-| **Repository** | [github.com/USERNAME/numerical-methods-calculator](https://github.com/USERNAME/numerical-methods-calculator) |
+| **Repository** | [github.com/USERNAME/numerical-methods-calculator](https://github.com/sultananaima515-pixel/Numerical-Method-Calculator.git) |
 
 </details>
 
