@@ -120,7 +120,7 @@ A group project that solves numerical methods problems through a simple Java Swi
 
 ---
 
-## GitHub Stats
+
 
 <!-- <div align="center">
 
@@ -135,13 +135,13 @@ A group project that solves numerical methods problems through a simple Java Swi
 
 ---
 
-## Contribution Activity
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" />
 
-</div>
+</div> -->
 
 ---
 
